@@ -7,7 +7,7 @@ These Terms & Conditions govern the use of the content and services offered thro
 
 “Safe Days,” “we,” or “us” refers to a company incorporated in the UK. “User” or “you” refers to anyone accessing or using the Services.
 
-By using our Services, you agree to these Terms & Conditions and acknowledge that your use is also subject to the [Safe Days Privacy Policy](https://positivechangeltd.github.io/Policies/privacy-policy.html), which forms an integral part of these Terms.
+By using our Services, you agree to these Terms & Conditions and acknowledge that your use is also subject to the [Privacy Policy](https://positivechangeltd.github.io/Policies/privacy-policy.html), which forms an integral part of these Terms.
 
 ---
 
