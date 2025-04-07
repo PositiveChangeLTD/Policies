@@ -1,5 +1,3 @@
----
-
 **Introduction**
 
 These Terms & Conditions govern the use of the content and services offered through the Safe Days fertility and menstrual cycle tracking application (“Safe Days App” or “App”), website, and social media accounts (collectively, the “Services”).
