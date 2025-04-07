@@ -1,8 +1,6 @@
 Safe Days - Privacy Policy
 ---
 
-**Privacy Policy — Safe Days**
-
 **1. Definitions**
 
 “User” or “you” refers to anyone using the Safe Days app, visiting our website, or contacting us. “Safe Days” refers to our company responsible for processing personal data as outlined in this policy.
